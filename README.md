@@ -1,3 +1,3 @@
-# Does Ella Program Yet?
+# Can Ella Program Yet?
 
-$\color{red}{NO}$
+# <span style="font-size:4em;">$\color{red}{NO}$</span>
